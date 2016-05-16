@@ -1,0 +1,42 @@
+/* No comment provided by engineer. */
+"Already authorized" = "ログイン済み";
+
+/* No comment provided by engineer. */
+"Cancel" = "キャンセル";
+
+/* No comment provided by engineer. */
+"Error occured!" = "エラー発生";
+
+/* No comment provided by engineer. */
+"Error statusCode: %@, statusMessage: %@" = "エラー statusCode: %1$@, statusMessage: %2$@";
+
+/* No comment provided by engineer. */
+"LINE is not installed" = "LINEアプリがインストールされていません";
+
+/* No comment provided by engineer. */
+"Logged out" = "ログアウトしました";
+
+/* No comment provided by engineer. */
+"Login error!" = "ログイン失敗";
+
+/* No comment provided by engineer. */
+"Login first!" = "先にログインしてください";
+
+/* No comment provided by engineer. */
+"Login success!" = "ログインしました";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Status is login" = "ログイン中";
+
+/* No comment provided by engineer. */
+"Status is logout" = "ログインアウト中";
+
+/* No comment provided by engineer. */
+"Your name is %@" = "ログイン名前 %@";
+
+/* No comment provided by engineer. */
+"Your's info name: %@ id: %@ mid: %@ statusMessage: %@" = "プロフィール情報 name: %1$@ id: %2$@ mid: %3$@ statusMessage: %4$@";
+

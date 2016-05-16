@@ -1,0 +1,18 @@
+/* Class = "UIButton"; normalTitle = "LOGOUT"; ObjectID = "3sE-MB-C3V"; */
+"3sE-MB-C3V.normalTitle" = "ログアウト";
+
+/* Class = "UILabel"; text = "Login Status"; ObjectID = "7nP-fC-OjI"; */
+"7nP-fC-OjI.text" = "ログイン状態";
+
+/* Class = "UIButton"; normalTitle = "LOGIN with LINE"; ObjectID = "8G6-oh-uRW"; */
+"8G6-oh-uRW.normalTitle" = "LINEからログイン";
+
+/* Class = "UIButton"; normalTitle = "LOGIN in app"; ObjectID = "8eE-lJ-WBS"; */
+"8eE-lJ-WBS.normalTitle" = "Appからログイン";
+
+/* Class = "UIButton"; normalTitle = "Profile API"; ObjectID = "BGt-6u-jLx"; */
+"BGt-6u-jLx.normalTitle" = "プロフィールを取得";
+
+/* Class = "UIButton"; normalTitle = "TRY API"; ObjectID = "eQl-6Q-MBV"; */
+"eQl-6Q-MBV.normalTitle" = "名前を取得";
+
